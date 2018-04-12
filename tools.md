@@ -9,7 +9,7 @@ order: 2
 **Eingesetzte Tools und Frameworks:**<br>
 
 - React und React Native
-- AngularJS, Ionic und Cordova und Ionic
-- ECMA-6 Javascript, HTML5, SCSS
+- AngularJS, Ionic und Cordova
 - Ruby on Rails und Sinatra
 - Bundler, Capistrano und Webpack
+- ECMA-6 Javascript, HTML5, SCSS
