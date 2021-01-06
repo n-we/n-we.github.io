@@ -10,6 +10,7 @@ order: 5
 - ABOUT YOU GmbH
 - ACC Audit, Control & Compliance Group GmbH
 - Atelier Disko UG & Co. KG
+- aureus RE. GmbH
 - BBSR (Bundesinstitut für Bau-, Stadt- und Raumforschung)
 - BFW Hamburg GmbH
 - Burfeind Kommunikation
@@ -21,3 +22,4 @@ order: 5
 - inter3 GmbH
 - Parcelly Limited
 - Urbanizers Neumüllers Langenbrinck GbR
+- Wüstenrot Stiftung
